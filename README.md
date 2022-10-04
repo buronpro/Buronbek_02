@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![snake svg](https://github.com/Otabekov12/Otabekov12/blob/output/github-contribution-grid-snake.svg)
+
+
+##  Sanker 
+
+![snake gif](https://github.com/buronpro/Buronbek_02/blob/output/github-contribution-grid-snake.gif)
